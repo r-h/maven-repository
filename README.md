@@ -34,6 +34,8 @@ Released under [Apache License](http://www.apache.org/licenses/LICENSE-2.0), dev
 
 Native JSR-303 validation support is incorporated in [Wicket6](http://www.wicket-library.com/wicket-examples-6.0.x/bean-validation)
 
+For earlier versions [wicketstuff JSR-303](https://github.com/wicketstuff/core/wiki/JSR303) might be an option.
+
 ## [jqgrid](https://code.google.com/p/wiquery-plugins/)
 
     <dependency>
