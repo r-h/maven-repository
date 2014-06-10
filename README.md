@@ -1,7 +1,7 @@
 maven-repository
 ================
 
-Maven repository with artifacts at least one of my project depends on and could not be resolved otherwise.
+Maven repository with artifacts at least one of my projects depends on and could not be resolved otherwise.
 
 These artifacts are considered legacy and are intended for internal use only.
 
